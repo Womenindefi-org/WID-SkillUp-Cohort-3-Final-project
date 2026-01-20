@@ -6,6 +6,3 @@
 * Frontend: [Jemmy](https://github.com/JemimahEkong) & [Faithy](https://github.com/rayeberechi) 
 * Integration: [Faithy](https://github.com/rayeberechi)
 * Documentation: [Jumoke](https://github.com/jestherDev)
-
-
-* Managed by [KOXY](https://github.com/koxyG)
